@@ -1,0 +1,4 @@
+function isRelease()
+{
+    return true;
+}
